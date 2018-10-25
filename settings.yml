@@ -1,0 +1,17 @@
+profile_link_text:
+    default: "Click to see my cool profile!"
+    description: "Text in the profile link"
+profile_link_groups:
+    default: "CoolKids"
+    description: "Name of group that gets the group link appended to posts"
+    type: list
+alternate_sig_text:
+    default: "Don't trust me!"
+    description: "Text in the alternate Signature"
+alternate_sig_groups:
+    default: "CoolKids"
+    type: list
+    description: "Name of groups that get the alternate_sig_text"
+alternate_sig_link:
+    default: ""
+    description: "Where the alternate signature links to."
