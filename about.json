@@ -1,8 +1,8 @@
 {
   "name": "Group Signatures Component",
-  "about_url": "URL",
-  "license_url": "URL",
-  "component": true
+  "about_url": "https://github.com/literatecomputing/discourse-theme-group-signature",
+  "license_url": "https://github.com/literatecomputing/discourse-theme-group-signature/LICENSE.txt",
+  "component": true,
   "assets": {
   },
   "color_schemes": {
