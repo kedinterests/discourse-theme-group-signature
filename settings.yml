@@ -6,7 +6,7 @@ profile_link_groups:
     description: "Name of group that gets the group link appended to posts"
     type: list
 alternate_sig_text:
-    default: "Don't trust me!"
+    default: "Enter Text Here"
     description: "Text in the alternate Signature"
 alternate_sig_groups:
     default: "CoolKids"
